@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
-title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+title                    : "Professional Portfolio"
+title_separator          : "|"
+name                     : "Kyler Witting"
+description              : "Currently a professional portfolio resume for Kyler Witting."
+url                      : "http://kylerwitting.com/"
+baseurl                  : # the subpath of your site, e.g. "/blog" - No subpath for me
+repository               : "KylerWitting/KylerWitting.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -48,7 +48,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "qxWpVav45NupMBJuXursAfzFtAbhXZ1Rg2LtjHel9fQ"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
