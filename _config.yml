@@ -80,9 +80,9 @@ author:
   name             : "Kyler Witting"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg" - No photo yet
   bio              : "Computer Science Student at Michigan Technological University"
-  location         : "Houghton, MI"
+  location         : # "Houghton, MI"
   email            : "KylerWitting@gmail.com"
-  uri              : "http://kylerwitting.com/"
+  uri              : # "http://kylerwitting.com/"
   bitbucket        : 
   codepen          : 
   dribbble         :
@@ -242,5 +242,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
