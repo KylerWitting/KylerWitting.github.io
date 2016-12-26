@@ -77,24 +77,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
-  bitbucket        :
-  codepen          :
+  name             : "Kyler Witting"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg" - No photo yet
+  bio              : "Computer Science Student at Michigan Technological University"
+  location         : "Houghton, MI"
+  email            : "KylerWitting@gmail.com"
+  uri              : "http://kylerwitting.com/"
+  bitbucket        : 
+  codepen          : 
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : kyler.witting
   foursquare       :
-  github           :
-  google_plus      :
+  github           : KylerWitting
+  google_plus      : 
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : kyler-witting-73b3a0125 
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
