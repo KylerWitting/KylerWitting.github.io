@@ -1,16 +1,16 @@
 # main links
 main:
-  - title: "Experience"
-    url: /experience/
   - title: "Education"
     url: /education/
-  - title: "Projects"
-    url: /projects/
-  - title: "Skills"
+  - title: "Experience"
+    url: /experience/
+#  - title: "Project Experience"
+#    url: /projects/
+  - title: "Technical Skills"
     url: /skills/
-  - title: "Recognition"
-    url: /recognition/
-  - title: "Associations"
+#  - title: "Recognition"
+#    url: /recognition/
+  - title: "Hobbies & Interests"
     url: /associations/
   - title: "Additional Links"
     url: /additionallinks/
