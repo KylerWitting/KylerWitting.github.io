@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Resume"
-title_separator          : "-"
+title                    : "Kyler Witting"
+title_separator          : " - "
 name                     : "Kyler Witting"
-description              : "Currently a professional portfolio resume for Kyler Witting."
+description              : "Professional portfolio resume for Kyler Witting."
 url                      : "http://kylerwitting.com/"
 baseurl                  : # the subpath of your site, e.g. "/blog" - No subpath for me
 repository               : "KylerWitting/KylerWitting.github.io"
@@ -77,7 +77,7 @@ analytics:
 # Site Author
 author:
   name             : "Kyler Witting"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg" - No photo yet
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Computer Science Student at Michigan Technological University"
   location         : # "Houghton, MI"
   email            : "KylerWitting@gmail.com"
@@ -239,7 +239,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: false
       related: false
