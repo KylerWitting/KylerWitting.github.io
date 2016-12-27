@@ -11,7 +11,7 @@ title                    : "Kyler Witting"
 title_separator          : "-"
 name                     : "Kyler Witting"
 description              : "Professional portfolio resume for Kyler Witting."
-url                      : "http://kylerwitting.com/"
+url                      : "http://kylerwitting.com"
 baseurl                  : # the subpath of your site, e.g. "/blog" - No subpath for me
 repository               : "KylerWitting/KylerWitting.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
