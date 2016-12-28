@@ -1,4 +1,0 @@
----
-permalink: /recognition/
-title: "Recognition"
----
