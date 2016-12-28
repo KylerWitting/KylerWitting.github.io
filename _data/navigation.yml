@@ -4,13 +4,13 @@ main:
     url: /education/
   - title: "Experience"
     url: /experience/
-#  - title: "Project Experience"
-#    url: /projects/
+  - title: "Projects"
+    url: /projects/
   - title: "Technical Skills"
     url: /skills/
-#  - title: "Recognition"
-#    url: /recognition/
   - title: "Hobbies & Interests"
     url: /associations/
-  - title: "Additional Links"
-    url: /additionallinks/
+#  - title: "Additional Links"
+#    url: /additionallinks/
+#  - title: "Recognition"
+#    url: /recognition/
